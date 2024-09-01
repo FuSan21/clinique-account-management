@@ -54,19 +54,27 @@ Explore the live deployment of Feroza Accounts at [Feroza Accounts Mangaement](h
 ## Screenshots
 
 ![Admin Dashboard](./images/Screenshot%202023-12-05%20001443.png)
-*Comprehensive overview of financial and operational data.*
+_Comprehensive overview of financial and operational data._
 
-![Patient Management](./images/Screenshot%202023-12-05%20001501.png)
-*Interface for easy addition and modification of patient records.*
+![Patient Management](./images/Screenshot_2-9-2024_05751_feroza-accounts.com.jpeg)
+_Interface for easy addition and modification of patient records._
 
 ![Operator Dashboard](./images/Screenshot%202023-12-05%20001358.png)
-*Simplified dashboard for operators.*
+_Simplified dashboard for operators._
 
 ![New Patient Section(OT)](./images/Screenshot%202023-12-05%20001422.png)
-*Section dedicated to new patient entries, specifically for OT.*
+_Section dedicated to new patient entries, specifically for OT._
 
-![Pathology Section](./images/Screenshot%202023-12-05%20001734.png)
-*Simplified interface for outside patients to select tests.*
+![Pathology Section](./images/Screenshot_2-9-2024_05626_feroza-accounts.com.jpeg)
+_Simplified interface for outside patients to select tests._
+
+![Create Bill](./images/Screenshot_2-9-2024_05523_feroza-accounts.com.jpeg)
+_Creation and printing bill for operators._
+
+![Create Patient](./images/Screenshot_2-9-2024_05944_feroza-accounts.com.jpeg)
+_Creation patients and assigning them under specfic depertment and doctors._
+
+And Many more.......
 
 ## Conclusion
 
